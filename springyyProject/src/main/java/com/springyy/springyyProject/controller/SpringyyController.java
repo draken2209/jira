@@ -20,7 +20,7 @@ import java.util.UUID;
 //quer medhod DSL based on method naming convanetions we can create a query criteria DP approch for compex queries
 
 @RestController
-@RequestMapping("/task")
+@RequestMapping("/flats")
 public class SpringyyController {
 
     @Autowired
